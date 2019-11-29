@@ -30,7 +30,12 @@ This work is divided by three main notebooks.
 
 ### Future work and caveats
 
-[ building ]
+* At first, we had some issues trying to improve RNN's precession.
+* We used a dataset from www.kaggle.com that gave us some good info about the patient, like its condition and neighbohood
+* We tried to join two data sets into one. The first one is the "No show appointment" and the second one "weather forecast", which would bring info about the forecast for each day of the appointments that we have. We ran some scripts to join it right, and worked great! But the info about temperature didn't impact the results as much as we had expected.
+* Our model reached an accuracy of 70%. If we had even more info about these specific appointment, we could work a way to improve even higher the accuracy that we already have.
+* We also resampled the dataset to get better results, but the accuracy dropped by 20%.
+
 
 ## Installing and using
 Before getting some work done, you need to run the following:

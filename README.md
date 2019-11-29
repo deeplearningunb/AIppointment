@@ -33,8 +33,12 @@ This work is divided by three main notebooks.
 [ building ]
 
 ## Installing and using
+Before getting some work done, you need to run the following:
+* Install requirements: 
+``` pip install -r requirements.txt  ```
 
-[ building ]
+* To run jupyter notebooks you should open **\nootebook** folder, or it may not run.
+
 
 ## Contributing
 

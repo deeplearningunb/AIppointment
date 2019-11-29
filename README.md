@@ -1,6 +1,5 @@
 # AIppointment
-
-## About this project
+---------------------------
 ### What is this project?
 This Deep Learning project intents preddict if a patient will miss an medical appointment or not.
 

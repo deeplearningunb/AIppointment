@@ -11,13 +11,12 @@ So, altought this theme is [vastly](https://www.kaggle.com/joniarroba/noshowappo
 Assuming that adding some new features to this dataset can improve its accuracy, we merged a weather timeseries dataset to check what was the weather at appointment day. We had this insight by reading some articles debating this no-show issue (citation needed).
 
 ### How this project was built? 
-## Tooling
-Whe used this amazing tools and libraries:
-
-* Python 3.7;
-* Jupyter Notebook;
-* Pandas;
-* Keras and Tensorflow. 
+#### Tooling:
+* Whe used this amazing tools and libraries:
+  * Python 3.7;
+  * Jupyter Notebook;
+  * Pandas;
+  * Keras and Tensorflow. 
 
 ## Dataset
 We also used a [dataset](https://www.kaggle.com/joniarroba/noshowappointments) found at Kaggle and scraped some weather data of Inmet. 

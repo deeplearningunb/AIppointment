@@ -62,4 +62,4 @@ See our [CONTRIBUTING.md](https://github.com/deeplearningunb/AIppointment/blob/m
 
 Icaro Oliveira [@icarooliv](https://github.com/icarooliv)
 Gustavo Carvalho [@gustavocarvalho1002](https://github.com/gustavocarvalho1002)
-Rodrigo Dadamos [@rdadamos(https://github.com/rdadamos)
+Rodrigo Dadamos [@rdadamos](https://github.com/rdadamos)

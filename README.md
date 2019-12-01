@@ -24,7 +24,7 @@ Assuming that adding some new features to this dataset can improve its accuracy,
  * [x] Add day average temperature feature - [more](https://github.com/deeplearningunb/AIppointment/issues/1)
  * [x] Develop training model - [more](https://github.com/deeplearningunb/AIppointment/issues/8)
  * [x] Exploratory data analysis  - [more](https://github.com/deeplearningunb/AIppointment/issues/7)
- * [x] Resampling tests on the model - [more](https://github.com/deeplearningunb/AIppointment/pull/6)
+ * [x] Resampling tests on the model - [more](https://github.com/deeplearningunb/AIppointment/pull/6) (which didn't worked)
  * [x] Generate model version - [more](https://github.com/deeplearningunb/AIppointment/pull/6)
 
 ## Dataset
@@ -57,3 +57,9 @@ Before getting some work done, you need to run the following:
 ## Contributing
 
 See our [CONTRIBUTING.md](https://github.com/deeplearningunb/AIppointment/blob/master/CONTRIBUTING.md) file
+
+## Members
+
+Icaro Oliveira [@icarooliv](https://github.com/icarooliv)
+Gustavo Carvalho [@gustavocarvalho1002](https://github.com/gustavocarvalho1002)
+Rodrigo Dadamos [@rdadamos(https://github.com/rdadamos)

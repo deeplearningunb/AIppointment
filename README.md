@@ -18,6 +18,15 @@ Assuming that adding some new features to this dataset can improve its accuracy,
   * Pandas;
   * Keras and Tensorflow.
 
+## Roadmap
+ * [x] Get a historical weather series - [more](https://github.com/deeplearningunb/AIppointment/issues/1)
+ * [x] Get the dataset - [more](https://github.com/deeplearningunb/AIppointment/issues/2)
+ * [x] Add day average temperature feature - [more](https://github.com/deeplearningunb/AIppointment/issues/1)
+ * [x] Develop training model - [more](https://github.com/deeplearningunb/AIppointment/issues/8)
+ * [x] Exploratory data analysis  - [more](https://github.com/deeplearningunb/AIppointment/issues/7)
+ * [x] Resampling tests on the model - [more](https://github.com/deeplearningunb/AIppointment/pull/6)
+ * [x] Generate model version - [more](https://github.com/deeplearningunb/AIppointment/pull/6)
+
 ## Dataset
 We also used a [dataset](https://www.kaggle.com/joniarroba/noshowappointments) found at Kaggle and scraped some weather data of Inmet.
 
